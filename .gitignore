@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Docker
+.env
+
+# Wazuh certificates
+docker/wazuh/config/wazuh_indexer_ssl_certs/
+
+# Logs
+logs/
+
+# Temporary files
+*.tmp
