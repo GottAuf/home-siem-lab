@@ -23,12 +23,10 @@ The objective is to build a reproducible home SOC environment for learning and d
 - Wazuh Manager
 - Wazuh Indexer
 - Wazuh Dashboard
-- Git
-- GitHub
 
 ## Project Status
 
-🚧 In Progress
+-- In Progress
 
 ## Planned Features
 
