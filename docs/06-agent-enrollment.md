@@ -67,7 +67,6 @@ Continuous Monitoring
 | Endpoint               | Fedora Linux 44 KDE Plasma |
 | Agent Version          | 4.9.2                      |
 | Manager Version        | 4.9.2                      |
-| Manager Address        | 192.168.0.112              |
 | Communication Protocol | TCP                        |
 | Agent Service          | systemd                    |
 
