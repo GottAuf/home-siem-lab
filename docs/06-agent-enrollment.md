@@ -200,15 +200,15 @@ participant Manager
 participant Indexer
 participant Dashboard
 
-Fedora->Agent: Generate system events
+Fedora->>Agent: Generate system events
 
-Agent->Manager: Forward telemetry
+Agent->>Manager: Forward telemetry
 
-Manager->Indexer: Process alerts
+Manager->>Indexer: Process alerts
 
-Indexer->Dashboard: Store & Index
+Indexer->>Dashboard: Store & Index
 
-Dashboard->Analyst: Visualize events
+Dashboard->>Analyst: Visualize events
 ```
 
 ---
